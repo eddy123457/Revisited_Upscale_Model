@@ -1,2 +1,2 @@
 # Revisited_Upscale_Model
-next addition of the previous model
+Next addition of the previous model with superior results.
